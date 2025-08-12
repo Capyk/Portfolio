@@ -1,6 +1,6 @@
 title: "My Portfolio"
 description: "Portfolio website showcasing projects in machine learning, data science, and AI."
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 
 # GitHub Pages settings
 remote_theme: mmistakes/minimal-mistakes@4.24.0
